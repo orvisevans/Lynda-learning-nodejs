@@ -1,0 +1,16 @@
+{
+  "name": "chatproject",
+  "version": "1.0.0",
+  "description": "based on Lynda.com \"Learning node.js\" course",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "orvis evans",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2"
+  }
+}
